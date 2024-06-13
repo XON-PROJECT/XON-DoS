@@ -1,7 +1,5 @@
 # XON-DoS
 
-## Скриншот работы
-
 ![7777](https://github.com/XON-PROJECT/XON-DoS/assets/172577620/0047a014-b04f-46ce-be5f-982204f6e4ec)
 
 ## Описание
