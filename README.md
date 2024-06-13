@@ -2,7 +2,7 @@
 
 ![7777](https://github.com/XON-PROJECT/XON-DoS/assets/172577620/0047a014-b04f-46ce-be5f-982204f6e4ec)
 
-# English
+# :flag_us: English
 
 ## Description
 XON-DoS is a script designed for conducting DoS attacks on websites at Layer7. It is developed using VB .NET and implements the POST method for attacks.
@@ -26,7 +26,7 @@ For feedback, please use the following contacts:
 - Discord: xon_project
 - GitHub: [XON-PROJECT](https://github.com/XON-PROJECT)
 
-# Русский
+# :flag_ru: Русский
 
 ## Описание
 XON-DoS - это скрипт, предназначенный для осуществления DoS-атак на веб-сайты на уровне Layer7. Разработан с использованием VB .NET и реализует метод POST для выполнения атак.
